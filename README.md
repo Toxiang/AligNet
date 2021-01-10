@@ -1,5 +1,5 @@
 # AligNet
-https://github.com/biocom-uib/AligNet
+参考：https://github.com/biocom-uib/AligNet
 
 主要函数文件：Analusis.R
 主函数：AligNet_Main.R
